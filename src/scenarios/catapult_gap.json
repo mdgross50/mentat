@@ -1,0 +1,19 @@
+{
+  "schema": 2,
+  "id": "catapult_gap",
+  "title": { "en": "Catapult Gap Jump" },
+  "difficulty": 2,
+
+  "v": 25,
+  "angles": [15, 25, 35, 45],
+  "target": { "start": 58, "width": 4 },
+
+  "scale": 5,
+  "renderer": "svg",
+
+  "gap": { "leftX": 0, "rightX": 55, "width": 5 },
+
+  "projectile": { "color": "#f59e0b" },
+
+  "seed": "42"
+}
